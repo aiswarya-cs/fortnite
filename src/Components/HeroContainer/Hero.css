@@ -1,0 +1,32 @@
+.heading-text{
+    font-family: Roboto;
+/* font-size: 45px; */
+font-weight: 200;
+
+letter-spacing: 0.9599999785423279px;
+text-align: center;
+color:#FFFFFF;
+}
+.hero-image-description{
+    font-family: Poppins;
+/* font-size: 18px; */
+font-weight: 400;
+text-align: center;
+color:#FFFFFF;
+}
+.visit-button{
+font-family: Poppins;
+font-size: 19px;
+font-weight: 400;
+letter-spacing: 0.9599999785423279px;
+text-align: center;
+height: 60px;
+border: 1px solid transparent; 
+opacity: 1;
+border-color: #FFFFFF;
+color: white;
+}
+.visit-button:hover{
+    color: black;
+    background-color: white;
+}

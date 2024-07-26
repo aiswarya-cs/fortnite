@@ -1,0 +1,41 @@
+.image-description{
+    font-family: Roboto;
+/* font-size: 19px; */
+font-weight: 300;
+letter-spacing: 0.02em;
+text-align: center;
+color:#FFFFFF;
+
+}
+
+.image-item{
+    height: 347px;
+}
+.contribution-heading{
+    font-family: Roboto;
+font-size: 42px;
+font-weight: 200;
+color:#FFFFFF;
+}
+.contribution-description{
+    font-family: Poppins;
+font-weight: 400;
+text-align: center;
+color:#FFFFFF;
+}
+.reach-count{
+    font-family: Roboto;
+/* font-size: 80px; */
+font-weight: 200;
+
+color:#FFFFFF;
+
+}
+.reach-descrioption{
+    font-family: Roboto;
+    /* font-size: 25px; */
+    font-weight: 300;
+    text-align: center;
+    color:#FFFFFF;
+ 
+}
